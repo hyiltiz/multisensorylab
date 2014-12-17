@@ -10,7 +10,7 @@
 
  - The research topic, "Sub-and supra-second timing: brain, learning and
 development" can be found in Frontiers [here](http://journal.frontiersin.org/ResearchTopic/3525).
- - We are hosting 17^th^ International Mutlisensory Research Forum ([IMRF 2016](http://www.multisensorylab.com/imrf2016/)).
+ - We are hosting 17^th^ International Mutlisensory Research Forum ([IMRF 2016](http://www.multisensorylab.com/conference/)).
  - Associate Editor for Haptic Science, [IEEE Word Haptics Conference 2015](http://haptics2015.org/).
 
 #### Current Research Projects
